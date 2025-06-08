@@ -40,7 +40,7 @@ This repository is provided solely for transparency, documentation, and educatio
 
 If you wish to license or adapt Dr. Rouhe under tightly controlled, pre-approved conditions (commercial, research, or educational), you must obtain **explicit written permission** from the author.
 
-Contact: [Insert your contact method or URL here]
+Contact: gazali[dot]ahmad[at]outlook[dot]com
 
 ---
 
