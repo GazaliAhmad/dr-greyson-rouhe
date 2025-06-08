@@ -1,0 +1,30 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+*.sublime*
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Python artifacts (if used for testing or scripting)
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.env
+.env
+
+# Node artifacts (if you experiment with a frontend wrapper)
+node_modules/
+dist/
+build/
+
+# OS metadata
+ehthumbs.db
+desktop.ini
