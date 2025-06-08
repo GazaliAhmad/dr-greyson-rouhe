@@ -56,7 +56,7 @@ See `LICENSE.md` for full legal terms.
 ## 🔗 Author
 
 Created by Gazali.  
-If you wish to license or adapt Dr. Rouhe under controlled conditions, contact the author directly.
+If you wish to license or adapt Dr. Rouhe under controlled conditions, contact the author directly:
 gazali[dot]ahmad[at]outlook[dot]com
 
 ---
