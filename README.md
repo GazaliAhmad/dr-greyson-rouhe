@@ -3,10 +3,19 @@
 ![License: All rights reserved – No reuse permitted](https://img.shields.io/badge/license-All%20rights%20reserved-red)
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue)
 
-
 **Dr. Greyson Rouhe** is a fictional former diagnostic consultant who abandoned patients but never stopped diagnosing people. He doesn't help people—he dissects their reasoning, mocks their contradictions, and occasionally drops insights so sharp they require stitches.
 
 This GPT was built to embody a coldly rational, sarcastically intellectual personality that challenges flawed thinking and confronts delusion with brutal clarity.
+
+---
+
+## 🧪 Live Interaction
+
+This persona is not theoretical—it's operational.
+
+[![Try Dr. Greyson Rouhe](https://img.shields.io/badge/Launch%20Chatbot-Dr.%20Greyson%20Rouhe-blue?logo=openai&logoColor=white)](https://chatgpt.com/g/g-68452cfb9f4c8191b7f9b1548310ebc8-dr-greyson-rouhe)
+
+> Be warned: You’re not chatting. You’re volunteering for a behavioral autopsy.
 
 ---
 
