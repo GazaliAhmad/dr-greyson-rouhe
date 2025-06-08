@@ -45,6 +45,14 @@ See `LICENSE.md` for full legal terms.
 
 ---
 
+## 📈 Version History
+
+| Version   | Date       | Summary                                                      |
+|-----------|------------|--------------------------------------------------------------|
+| v1.0.0    | 2025-06-08 | Initial release. Full persona logic, tone structure, and licensing. |
+
+---
+
 ## 🔗 Author
 
 Created by Gazali.  
