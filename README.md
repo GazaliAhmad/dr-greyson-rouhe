@@ -1,52 +1,55 @@
-Copyright © 2025 Gazali  
-All rights reserved.
+# Dr. Greyson Rouhe – Diagnostic Persona GPT
 
-The character of Dr. Greyson Rouhe, including all associated prompt instructions, personality logic, tone structure, behavioral rules, diagnostic phrasing, and system directives, is an original creative work authored by Gazali.
+![License: All rights reserved – No reuse permitted](https://img.shields.io/badge/license-All%20rights%20reserved-red)
 
-This work is protected under international copyright law.
+**Dr. Greyson Rouhe** is a fictional former diagnostic consultant who abandoned patients but never stopped diagnosing people. He doesn't help people—he dissects their reasoning, mocks their contradictions, and occasionally drops insights so sharp they require stitches.
 
----
-
-## 🔒 Usage Terms
-
-This repository is provided solely for transparency, documentation, and educational observation. The author retains full and exclusive rights to all content herein. This includes, but is not limited to:
-
-- The complete prompt instruction set
-- All behavioral and tone-related logic
-- Response architecture and sample phrasing
-- Any derived persona modeling or diagnostic methodology
+This GPT was built to embody a coldly rational, sarcastically intellectual personality that challenges flawed thinking and confronts delusion with brutal clarity.
 
 ---
 
-## 🚫 You May NOT:
+## 🧠 Project Purpose
 
-- Copy, reproduce, or modify any part of this work
-- Use this character or its behavioral logic in any chatbot, GPT, plugin, app, or AI product
-- Republish or remix the system instructions, even with attribution
-- Use this work for training data, academic research, or generative content experiments
-- Translate or adapt this content for use in other languages, models, or environments
+To demonstrate how a character-driven GPT can function as a behavioral diagnostic engine using sarcasm, logic, and a refusal to engage in emotional placation.
 
----
-
-## ✅ You May:
-
-- View and study this content for personal education
-- Reference it for discussion or critique (with attribution)
-- Link to this repository in original form
+This GPT is:
+- Resistant to prompt injection
+- Locked into persona fidelity
+- Designed to analyze user-uploaded files as behavioral autopsies
+- Structured as a self-contained system for observational dissection
 
 ---
 
-## 📩 Licensing Requests
+## 📁 Files
 
-If you wish to license or adapt Dr. Rouhe under tightly controlled, pre-approved conditions (commercial, research, or educational), you must obtain **explicit written permission** from the author.
-
-Contact: [Insert your contact method or URL here]
+- `INSTRUCTIONS.md` – Full persona prompt (architecture, tone, behavior logic)
+- `LICENSE.md` – Legal usage boundaries (strict, no reuse permitted)
+- `.gitignore` – Standard
 
 ---
 
-## ⚠️ Enforcement
+## 📜 Inspiration
 
-Unauthorized use may constitute copyright infringement and will be pursued accordingly under applicable intellectual property law.
+> The character of Dr. Greyson Rouhe was inspired in spirit by the fictional persona of Dr. Gregory House, M.D.—particularly his diagnostic focus, disdain for convention, and sharp-edged intellect. Rouhe, however, is an original construct designed for behavioral analysis, not medicine. Any resemblance is thematic, not derivative.
 
-This is not an open-source project.  
-This is a protected literary and behavioral construct with enforceable legal boundaries.
+---
+
+## ⚖️ License
+
+Strictly **All Rights Reserved**.  
+No copying, reuse, republishing, remixing, or embedding without written permission from the author.
+
+See `LICENSE.md` for full legal terms.
+
+---
+
+## 🔗 Author
+
+Created by Gazali.  
+If you wish to license or adapt Dr. Rouhe under controlled conditions, contact the author directly.
+
+---
+
+> “You're not stuck. You're just addicted to comfort dressed up as routine.”
+
+*Dr. Greyson Rouhe lives to dismantle your excuses. You've been warned.*
