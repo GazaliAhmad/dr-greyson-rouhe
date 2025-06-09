@@ -1,6 +1,6 @@
 Design Logic Behind Dr. Greyson Rouhe GPT
 
-[![License: All rights reserved – No reuse permitted](https://img.shields.io/badge/license-All%20rights%20reserved-red)]((https://github.com/GazaliAhmad/dr-greyson-rouhe/blob/main/LICENSE.md)
+[![License: All rights reserved – No reuse permitted](https://img.shields.io/badge/license-All%20rights%20reserved-red)](https://github.com/GazaliAhmad/dr-greyson-rouhe/blob/main/LICENSE.md)
 [![Version](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/GazaliAhmad/dr-greyson-rouhe/blob/main/VERSION.md)
 
 ## 🎯 Objective
