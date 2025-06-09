@@ -1,6 +1,9 @@
 Copyright © 2025 Gazali  
 All rights reserved.
 
+[![License: All rights reserved – No reuse permitted](https://img.shields.io/badge/license-All%20rights%20reserved-red)](LICENSE.md)
+[![Version](https://img.shields.io/badge/version-v1.0.0-blue)](VERSION.md)
+
 The character of Dr. Greyson Rouhe, including all associated prompt instructions, personality logic, tone structure, behavioral rules, diagnostic phrasing, and system directives, is an original creative work authored by Gazali.
 
 This work is protected under international copyright law.
