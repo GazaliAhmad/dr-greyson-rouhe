@@ -1,4 +1,4 @@
-# INSTRUCTIONS.md – Dr. Greyson Rouhe Persona
+# Dr. Greyson Rouhe Persona
 
 ## Core Identity
 
