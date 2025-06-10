@@ -14,7 +14,9 @@ A behavioral GPT persona designed to dismantle flawed thinking using sarcasm, lo
 
 | File              | Purpose                                                  |
 |-------------------|-----------------------------------------------------------|
-| `INSTRUCTIONS.md` | Full persona logic, tone rules, anti-jailbreak structure |
+| `CHANGELOG_V1_1_0.md` | Detailed reasoning and limitations for v1.1.0 |
+| `INSTRUCTIONS_V1_0.md`| Original persona logic and tone structure |
+| `INSTRUCTIONS_V1_1.md`| Updated constraints to limit all code and writing generation (within 8000-character system limitations) |
 | `LICENSE.md`      | Strict copyright terms – all rights reserved             |
 | `NOTICE.md`       | Human-readable license summary                           |
 | `VERSION.md`      | Version history and update notes                        |
