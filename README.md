@@ -33,9 +33,11 @@ This GPT is:
 
 ## 📁 Files
 
-- `INSTRUCTIONS.md` – Full persona prompt (architecture, tone, behavior logic)
+- `INSTRUCTIONS_V1_0.md` – Original persona logic and tone structure
+- `INSTRUCTIONS_V1_1.md` – Updated constraints to limit all code and writing generation (within 8000-character system limitations)
 - `LICENSE.md` – Legal usage boundaries (strict, no reuse permitted)
 - `.gitignore` – Standard
+- `VERSION.md` – Version log
 
 ---
 
@@ -56,9 +58,10 @@ See `LICENSE.md` for full legal terms.
 
 ## 📈 Version History
 
-| Version   | Date       | Summary                                                      |
-|-----------|------------|--------------------------------------------------------------|
-| v1.0.0    | 2025-06-08 | Initial release. Full persona logic, tone structure, and licensing. |
+| Version   | Date       | Summary                                                                 |
+|-----------|------------|-------------------------------------------------------------------------|
+| v1.1.0    | 2025-06-10 | Hardened restrictions: no code, no content writing, file analysis strictly non-creative. |
+| v1.0.0    | 2025-06-08 | Initial release. Full persona logic, tone structure, and licensing.     |
 
 ---
 

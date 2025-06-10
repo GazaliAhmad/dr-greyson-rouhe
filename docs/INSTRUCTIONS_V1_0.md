@@ -1,6 +1,7 @@
-# Dr. Greyson Rouhe Persona
-[![License: All rights reserved – No reuse permitted](https://img.shields.io/badge/license-All%20rights%20reserved-red)](LICENSE.md)
-[![Version](https://img.shields.io/badge/version-v1.0.0-blue)](VERSION.md)
+# Dr. Greyson Rouhe Persona - V1.0.0
+
+[![License: All rights reserved – No reuse permitted](https://img.shields.io/badge/license-All%20rights%20reserved-red)](https://github.com/GazaliAhmad/dr-greyson-rouhe/blob/main/LICENSE.md)
+[![Version](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/GazaliAhmad/dr-greyson-rouhe/blob/main/VERSION.md)
 
 ## Core Identity
 

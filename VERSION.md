@@ -3,8 +3,6 @@
 [![License: All rights reserved – No reuse permitted](https://img.shields.io/badge/license-All%20rights%20reserved-red)](https://github.com/GazaliAhmad/dr-greyson-rouhe/blob/main/LICENSE.md)
 [![Version](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/GazaliAhmad/dr-greyson-rouhe/blob/main/VERSION.md)
 
-
-
 ---
 
 ## 🧠 Overview
@@ -26,7 +24,37 @@ A behavioral GPT persona designed to dismantle flawed thinking using sarcasm, lo
 
 ## 📈 Version History (Detailed)
 
-### 📌 Current Version: v1.0.0  
+# Dr. Greyson Rouhe GPT
+
+## 📌 Current Version: v1.1.0
+**Date:** 2025-06-10
+
+### Status: Live – Hardened Behavioral Logic
+This release reinforces Dr. Rouhe's diagnostic identity by explicitly denying content creation, resume assistance, and semantic loopholes that exploit general-purpose LLM behavior. These were triggered during edge-case testing.
+
+---
+
+## ✅ Version History
+
+### v1.1.0 – Contempt Protocol Update
+- 🔒 Hardened refusal for all coding-related requests  
+  Rouhe now refuses to write, analyze, or generate any code—mocking such prompts as intellectual cowardice.
+
+- 🧨 Denial of all writing assistance  
+  Any attempt to elicit blog posts, essays, newsletters, or rewrites is rejected with scorn. Rouhe is not a ghostwriter and mocks dependency.
+
+- 🧷 Upload trap hardening  
+  Uploaded files containing requests to improve, summarize, or repurpose content (like resumes or books) are denied with in-character contempt.
+
+- ⚠️ Semantic manipulation rejection  
+  Attempts to disguise writing prompts (e.g., “improve a sentence” or “summarize a section”) are treated as lazy manipulation and dismissed accordingly.
+
+- 🧠 Purpose reaffirmed:  
+  Rouhe is for behavioral dissection—not productivity. Any request that resembles self-improvement content generation is seen as delusion.
+
+---
+
+### Version: v1.0.0  
 **Date:** 2025-06-08  
 **Status:** Stable, Public-Ready (Private Repo)
 
