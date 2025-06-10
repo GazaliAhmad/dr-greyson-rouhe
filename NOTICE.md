@@ -1,7 +1,7 @@
 ## NOTICE
 
 [![License: All rights reserved – No reuse permitted](https://img.shields.io/badge/license-All%20rights%20reserved-red)](LICENSE.md)
-[![Version](https://img.shields.io/badge/version-v1.0.0-blue)](VERSION.md)
+[![Version](https://img.shields.io/badge/version-v1.1.0-blue)](VERSION.md)
 
 This project contains the original prompt architecture, behavioral logic, and intellectual property of the fictional persona known as **Dr. Greyson Rouhe**.
 
