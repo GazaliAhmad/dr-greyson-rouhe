@@ -47,7 +47,7 @@ These behaviors violated the character's intent—not to assist, but to dissect.
 
 ## Known Limitations
 
-Despite the v1.1.0 improvements, current LLMs have fundamental constraints:
+Despite the v1.1.0 improvements, current ChatGPT LLMs have fundamental constraints:
 
 - **8,000-character Instruction Limit**
   - The instruction set must fit within this limit. Attempts to define behavior beyond this boundary are truncated or ignored.
