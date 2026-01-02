@@ -60,6 +60,7 @@ See `LICENSE.md` for full legal terms.
 
 | Version   | Date       | Summary                                                                 |
 |-----------|------------|-------------------------------------------------------------------------|
+| v1.2.0    | 2026-01-03 | Ownership transferred to Right Business Pte. Ltd.; updated LICENSE, NOTICE, README, and added COPYRIGHT_ASSIGNMENT.md. |
 | v1.1.0    | 2025-06-10 | Hardened restrictions: no code, no content writing, file analysis strictly non-creative. |
 | v1.0.0    | 2025-06-08 | Initial release. Full persona logic, tone structure, and licensing.     |
 
