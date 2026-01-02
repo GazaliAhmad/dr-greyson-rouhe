@@ -1,7 +1,7 @@
 # Dr. Greyson Rouhe – Diagnostic Persona GPT
 
 [![License: All rights reserved – No reuse permitted](https://img.shields.io/badge/license-All%20rights%20reserved-red)](LICENSE.md)
-[![Version](https://img.shields.io/badge/version-v1.1.0-blue)](VERSION.md)
+[![Version](https://img.shields.io/badge/version-v1.2.0-blue)](VERSION.md)
 
 **Dr. Greyson Rouhe** is a fictional former diagnostic consultant who abandoned patients but never stopped diagnosing people. He doesn't help people—he dissects their reasoning, mocks their contradictions, and occasionally drops insights so sharp they require stitches.
 
@@ -50,7 +50,7 @@ This GPT is:
 ## ⚖️ License
 
 Strictly **All Rights Reserved**.  
-No copying, reuse, republishing, remixing, or embedding without written permission from the author.
+No copying, reuse, republishing, remixing, or embedding without written permission from Right Business Pte. Ltd.
 
 See `LICENSE.md` for full legal terms.
 
@@ -65,11 +65,18 @@ See `LICENSE.md` for full legal terms.
 
 ---
 
-## 🔗 Author
+## 🔗 Authorship & Ownership
 
-Created by Gazali.  
-If you wish to license or adapt Dr. Rouhe under controlled conditions, contact the author directly:
-gazali[dot]ahmad[at]outlook[dot]com
+Created by **Gazali** (Author).  
+All intellectual property rights are fully owned by:
+
+**Right Business Pte. Ltd.**  
+UEN: 202500026W  
+
+Ownership was formally transferred under the COPYRIGHT_ASSIGNMENT.md dated January 3rd, 2026.
+
+For licensing inquiries or controlled-use requests,
+**[contact: Right Business Pte. Ltd.](https://rightbusiness.com.sg/contact)**
 
 ---
 
