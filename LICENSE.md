@@ -1,4 +1,5 @@
-Copyright © 2025 Gazali  
+Copyright © 2025–2026 Right Business Pte. Ltd.
+All rights reserved.
 
 [![License: All rights reserved – No reuse permitted](https://img.shields.io/badge/license-All%20rights%20reserved-red)](LICENSE.md)
 [![Version](https://img.shields.io/badge/version-v1.1.0-blue)](VERSION.md)
